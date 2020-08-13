@@ -3,3 +3,6 @@
 
 ## Goal
 Deploy a python written application on heroku. Use the experience for productive software implementations
+
+## Prerequisites
+``` pip install streamlit ```
